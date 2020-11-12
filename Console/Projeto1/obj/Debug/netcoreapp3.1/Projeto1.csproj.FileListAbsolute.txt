@@ -1,0 +1,13 @@
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.exe
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.deps.json
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.json
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.dev.json
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csprojAssemblyReference.cache
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\thiago\Documents\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.genruntimeconfig.cache
