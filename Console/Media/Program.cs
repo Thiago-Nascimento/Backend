@@ -24,7 +24,7 @@ namespace Media
                 situacao = "Reprovado";
             }
 
-            Console.WriteLine(situacao);
+            Console.WriteLine(situacao);            
         }
     }
 }
